@@ -29,11 +29,6 @@ will need:
 >   extensively used in research (e.g. it has been a long time since
 >   I have encountered a non-git repository)
 >
-> - Anaconda is popular in research. Many research projects/papers require
->   anaconda in order to (e.g.) install relevant dependencies. Anaconda also
->   includes Jupyter Notebook, which is useful because many research papers
->   in the wild provide their python code via Jupyter Notebooks.
->
 > - Visual Studio Code is requested so that all meetup participants have
 >   roughly the same setup.
 
