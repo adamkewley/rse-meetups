@@ -10,4 +10,4 @@ def do_investigation():
     data = lib.load_data()
     plot(datum)
 
-do_investigattion()
+do_investigaton()
