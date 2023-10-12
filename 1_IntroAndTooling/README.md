@@ -18,7 +18,6 @@ will need:
     that you can write `git` on the command line
   - You can usually use all defaults in the installer (i.e. `next` `next`
     `next`)
-- Anaconda (https://www.anaconda.com/download)
 - Visual Studio Code (https://code.visualstudio.com/download)
 
 > ❓ Why these:
