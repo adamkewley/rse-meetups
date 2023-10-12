@@ -29,7 +29,7 @@ The meetup format means that we start each session with a short overview of a to
 The focus of the meetup is to cover development techniques that are practically useful, regardless of programming language. However, any coding content/sessions shall be delivered in Python.
 
 
-# Proposed Meetup Topics:
+# Proposed Meetup Topics
 
 > ℹ️ **Note**: This list is just to give you an idea (it's very very provisional).
 
@@ -40,4 +40,4 @@ The focus of the meetup is to cover development techniques that are practically 
 | Software Design | Library vs. command-line vs. UI. User-/developer-experience. What is an application? The basics of how applications work. |
 | Software Implementation | Iterative development methods. The REPL. Incremental application design. Assertions. Tests. How to implement things done more quickly - and with fewer surprises. |
 | Libraries | Command-line parsers, configuration parsers, plotters, renderers |
-| Advanced/Specialized topics (later) | Languages with type systems. Native application development (C/C++/Fortran/Rust). Multithreading. GP-GPU. Julia, hardware engineering, Julia, etc. |
+| Advanced/Specialized topics (later) | Languages with type systems. Native application development (C/C++/Fortran/Rust). Multithreading. GP-GPU. Julia, hardware engineering, etc. |
