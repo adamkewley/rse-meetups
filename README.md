@@ -12,9 +12,9 @@
 
 | Date | Location | Rough Topic | Status |
 | - | - | - | - |
-| 16th October | 34-E-3180 | Introduction & tooling | In development |
-| 23rd October | 34-E-3180 | Sharing, publication, and collaboration | (title only) |
-| 30th October | 34-E-3180 | (topic TBD: based on feedback) | |
+| 16th October | 34-E-3180 | Introduction & tooling | Done |
+| 23rd October | 34-E-3180 | Sharing, publication, and collaboration | In development |
+| 30th October | 34-E-3180 | Software Design: command-lines, UIs, and notebooks | Topic Suggested |
 | 6th November | 34-E-3180 | (topic TBD: based on feedback) | |
 | 13th November | 34-E-3180 | (topic TBD: based on feedback) | |
 | 20th November | 34-E-3180 | (topic TBD: based on feedback) | |
