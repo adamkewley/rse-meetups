@@ -1,13 +1,19 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def target_distribution(x):
+def target_distribution_gaussian(x):
     # Define the target distribution, which is a 2D Gaussian in this example.
     mean = np.array([2.0, 2.0])
     cov = np.array([[1.0, 0.8], [0.8, 1.0]])
     inv_cov = np.linalg.inv(cov)
     exponent = -0.5 * np.dot(np.dot((x - mean), inv_cov), (x - mean).T)
     return np.exp(exponent)
+
+def target_distribution_poisson(x, lambd=3.0):
+    return (lambd ** x) * np.exp(-lambd) / np.math.factorial(x)
+
+def target_distribution(x):
+    return target_distribution_gaussian(x)  # change this if you want to sample something else
 
 def slice_sampling(num_samples, initial_state, width=1.0):
     samples = [initial_state]
