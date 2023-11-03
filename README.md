@@ -14,9 +14,9 @@
 | - | - | - | - |
 | 16th October | 34-E-3180 | Introduction & tooling | Done |
 | 23rd October | 34-E-3180 | Sharing, publication, and collaboration | Done |
-| 30th October | 34-E-3180 | Software Design: command-lines, UIs, and notebooks | In Development |
-| 6th November | 34-E-3180 | Software Implementation: writing algorithms, assertions, tests | Proposed |
-| 13th November | 34-E-3180 | (topic TBD: based on feedback) | |
+| 30th October | 34-E-3180 | Software Design: command-lines, UIs, and notebooks | Done |
+| 6th November | 34-E-3180 | Software Implementation: writing algorithms, assertions, tests | In Development |
+| 13th November | 34-E-3180 | (Sub)processes | Proposed |
 | 20th November | 34-E-3180 | (topic TBD: based on feedback) | |
 
 
