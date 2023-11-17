@@ -16,8 +16,9 @@
 | 23rd October | 34-E-3180 | Sharing, publication, and collaboration | Done |
 | 30th October | 34-E-3180 | Software Design: command-lines, UIs, and notebooks | Done |
 | 6th November | 34-E-3180 | Software Implementation: writing algorithms, assertions, tests | Done |
-| 13th November | 34-E-3180 | Operating Systems, Subprocesses, and Command Lines | In development |
-| 20th November | 34-E-3180 | Performance | Proposed |
+| 13th November | 34-E-3180 | Operating Systems, Subprocesses, and Command Lines | Done |
+| 20th November | 34-E-3180 | Performance | In Development |
+| (afterwards) | - | - | You're free 🥳 |
 
 
 # Overview
